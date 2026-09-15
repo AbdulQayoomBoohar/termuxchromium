@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Termux Setup Script
 Installs X11 dependencies, Python libraries, downloads Chromium v146 aarch64,
